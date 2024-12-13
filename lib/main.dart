@@ -4,7 +4,7 @@ import 'package:news_app/services/news_service.dart';
 import 'package:news_app/views/home_view.dart';
 
 void main() {
-  NewsService().getNews();
+  // NewsService().getNews();
   runApp(const MyApp());
 }
 
@@ -27,3 +27,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+// web view لما اضغط علي خبر تعرض البيانات الل فيه
+// cashed network image
