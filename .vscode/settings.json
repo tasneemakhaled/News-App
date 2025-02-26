@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "E:/news_app/linux"
+    "cmake.sourceDirectory": "E:/news_app/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
